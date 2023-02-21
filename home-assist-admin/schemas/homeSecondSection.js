@@ -18,5 +18,10 @@ export default {
       type: 'text',
       title: 'Text',
     },
+    {
+      name: 'textTwo',
+      type: 'text',
+      title: 'Text Two',
+    },
   ],
 }
